@@ -5,7 +5,7 @@ the problem, we will use a tagset which is composed of 11 tags. i.e. Noun, Prono
 Punctuation and Other.
 
 The corpus for this can be downloaded from this link:
-
+https://github.com/tushar8049/POS-Tagging/tree/master/brown_corpus_modified
 Your goal is to design and implement a class ‘Tagger’ that is able to tag the
 following sentences:
 
