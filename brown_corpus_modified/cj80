@@ -1,0 +1,177 @@
+
+
+A/DETERMINER gyro-stabilized/ADJECTIVE platform/NOUN system/NOUN ,/PUNCT using/VERB restrained/VERB gyros/NOUN ,/PUNCT is/VERB well/ADVERB suited/VERB for/PREPOSITION automatic/ADJECTIVE leveling/NOUN because/ADVERB of/PREPOSITION the/DETERMINER characteristics/NOUN of/PREPOSITION the/DETERMINER gyro-platform-servo/NOUN combination/NOUN ./PUNCT 
+The/DETERMINER restrained/VERB gyro-stabilized/ADJECTIVE platform/NOUN with/PREPOSITION reasonable/ADJECTIVE response/NOUN characteristics/NOUN operates/VERB with/PREPOSITION an/DETERMINER approximate/ADJECTIVE equation/NOUN of/PREPOSITION motion/NOUN ,/PUNCT neglecting/VERB transient/ADJECTIVE effects/NOUN ,/PUNCT as/CONJUNCTION follows/VERB :/X Af/NOUN where/ADVERB U/NOUN is/VERB a/DETERMINER torque/NOUN applied/VERB about/PREPOSITION the/DETERMINER output/NOUN axis/NOUN of/PREPOSITION the/DETERMINER controlling/VERB gyro/NOUN ./PUNCT 
+
+
+The/DETERMINER platform/NOUN angle/NOUN **yf/NOUN is/VERB the/DETERMINER angle/NOUN about/PREPOSITION which/DETERMINER the/DETERMINER gyro/NOUN is/VERB controlling/VERB ./PUNCT 
+This/DETERMINER is/VERB normally/ADVERB termed/VERB the/DETERMINER gyro/NOUN input/NOUN axis/NOUN ,/PUNCT 90-degrees/NOUN away/ADVERB from/PREPOSITION the/DETERMINER gyro/NOUN output/NOUN or/CONJUNCTION **yj/NOUN axis/NOUN ./PUNCT 
+The/DETERMINER gyro/NOUN angular/ADJECTIVE momentum/NOUN is/VERB defined/VERB by/PREPOSITION H/NOUN ./PUNCT 
+
+
+Thus/ADVERB if/CONJUNCTION the/DETERMINER gyro/NOUN and/CONJUNCTION platform-controller/NOUN combination/NOUN maintains/VERB the/DETERMINER platform/NOUN with/PREPOSITION zero/NUMBER angular/ADJECTIVE deviation/NOUN about/PREPOSITION the/DETERMINER **yf/NOUN axis/NOUN ,/PUNCT the/DETERMINER system/NOUN can/VERB be/VERB rotated/VERB with/PREPOSITION an/DETERMINER angular/ADJECTIVE velocity/NOUN Af/NOUN if/CONJUNCTION a/DETERMINER torque/NOUN is/VERB supplied/VERB to/PREPOSITION the/DETERMINER gyro/NOUN output/NOUN axis/NOUN Aj/NOUN ./PUNCT 
+It/PRONOUN is/VERB assumed/VERB that/CONJUNCTION the/DETERMINER gyros/NOUN are/VERB designed/VERB with/PREPOSITION electrical/ADJECTIVE torquers/NOUN so/CONJUNCTION that/CONJUNCTION a/DETERMINER torque/NOUN can/VERB be/VERB applied/VERB about/PREPOSITION their/PRONOUN output/NOUN axes/NOUN ./PUNCT 
+
+
+In/PREPOSITION the/DETERMINER system/NOUN shown/VERB in/PREPOSITION Fig./NOUN 7-1/NUMBER ,/PUNCT the/DETERMINER accelerometer/NOUN output/NOUN is/VERB amplified/VERB and/CONJUNCTION the/DETERMINER resulting/VERB voltage/NOUN is/VERB applied/VERB to/PREPOSITION the/DETERMINER gyro/NOUN output-axis/NOUN torquer/NOUN ./PUNCT 
+This/DETERMINER torque/NOUN causes/VERB the/DETERMINER entire/ADJECTIVE system/NOUN to/X rotate/VERB about/PREPOSITION the/DETERMINER **yf/NOUN axis/NOUN ,/PUNCT since/CONJUNCTION the/DETERMINER response/NOUN to/PREPOSITION Af/NOUN ./PUNCT 
+If/CONJUNCTION the/DETERMINER polarities/NOUN are/VERB correct/ADJECTIVE ,/PUNCT the/DETERMINER platform/NOUN rotates/VERB in/PREPOSITION such/X a/DETERMINER direction/NOUN as/CONJUNCTION to/X reduce/VERB the/DETERMINER accelerometer/NOUN output/NOUN to/PREPOSITION zero/NUMBER ./PUNCT 
+As/CONJUNCTION the/DETERMINER accelerometer/NOUN output/NOUN is/VERB decreasing/VERB ,/PUNCT the/DETERMINER torque/NOUN applied/VERB to/PREPOSITION the/DETERMINER gyro/NOUN output/NOUN axis/NOUN decreases/VERB and/CONJUNCTION ,/PUNCT therefore/ADVERB ,/PUNCT the/DETERMINER rate/NOUN decreases/VERB ./PUNCT 
+Finally/ADVERB ,/PUNCT when/ADVERB the/DETERMINER accelerometer/NOUN output/NOUN is/VERB zero/NUMBER ,/PUNCT the/DETERMINER entire/ADJECTIVE system/NOUN remains/VERB stationary/ADJECTIVE ,/PUNCT and/CONJUNCTION the/DETERMINER platform/NOUN is/VERB ,/PUNCT by/PREPOSITION definition/NOUN ,/PUNCT leveled/VERB ./PUNCT 
+
+
+A/DETERMINER mathematical/ADJECTIVE block/NOUN diagram/NOUN for/PREPOSITION the/DETERMINER leveling/VERB system/NOUN is/VERB shown/VERB in/PREPOSITION Fig./NOUN 7-2/NUMBER ./PUNCT 
+The/DETERMINER platform/NOUN is/VERB initially/ADVERB off/PREPOSITION level/ADJECTIVE by/PREPOSITION the/DETERMINER angle/NOUN Aj/NOUN ./PUNCT 
+The/DETERMINER angle/NOUN generated/VERB by/PREPOSITION the/DETERMINER platform/NOUN servo/NOUN **yf/NOUN multiplied/VERB by/PREPOSITION G/NOUN is/VERB the/DETERMINER effective/ADJECTIVE acceleration/NOUN acting/VERB on/PREPOSITION the/DETERMINER accelerometer/NOUN ./PUNCT 
+Af/NOUN is/VERB the/DETERMINER scale/NOUN factor/NOUN of/PREPOSITION the/DETERMINER accelerometer/NOUN (/PUNCT Af/NOUN )/PUNCT ./PUNCT 
+The/DETERMINER voltage/NOUN Af/NOUN is/VERB amplified/VERB by/PREPOSITION Af/NOUN and/CONJUNCTION applied/VERB to/PREPOSITION the/DETERMINER gyro/NOUN torquer/NOUN with/PREPOSITION scale/NOUN factor/NOUN Af/NOUN ./PUNCT 
+Finally/ADVERB ,/PUNCT the/DETERMINER gyro-stabilized/ADJECTIVE platform/NOUN characteristic/NOUN is/VERB represented/VERB by/PREPOSITION Af/NOUN ./PUNCT 
+The/DETERMINER system/NOUN as/CONJUNCTION indicated/VERB in/PREPOSITION Fig./NOUN 7-2/NUMBER is/VERB fundamental/ADJECTIVE and/CONJUNCTION simple/ADJECTIVE because/CONJUNCTION the/DETERMINER transient/ADJECTIVE effects/NOUN of/PREPOSITION both/X the/DETERMINER platform/NOUN servo/NOUN and/CONJUNCTION the/DETERMINER accelerometer/NOUN have/VERB been/VERB neglected/VERB ./PUNCT 
+With/PREPOSITION these/DETERMINER factors/NOUN included/VERB ,/PUNCT an/DETERMINER upper/ADJECTIVE limit/NOUN is/VERB placed/VERB on/PREPOSITION the/DETERMINER allowable/ADJECTIVE loop/NOUN gain/NOUN by/PREPOSITION stability/NOUN considerations/NOUN ./PUNCT 
+In/PREPOSITION this/DETERMINER type/NOUN of/PREPOSITION system/NOUN ,/PUNCT a/DETERMINER high/ADJECTIVE loop/NOUN gain/NOUN is/VERB desirable/ADJECTIVE because/CONJUNCTION it/PRONOUN provides/VERB a/DETERMINER fast/ADJECTIVE response/NOUN time/NOUN ./PUNCT 
+
+
+When/ADVERB the/DETERMINER frequency/NOUN response/NOUN characteristics/NOUN of/PREPOSITION practical/ADJECTIVE components/NOUN are/VERB considered/VERB ,/PUNCT their/PRONOUN effect/NOUN on/PREPOSITION stability/NOUN does/VERB not/PUNCT present/VERB the/DETERMINER most/ADVERB serious/ADJECTIVE limit/NOUN on/PREPOSITION the/DETERMINER system/NOUN loop/NOUN gain/NOUN ./PUNCT 
+The/DETERMINER time/NOUN required/VERB for/PREPOSITION the/DETERMINER system/NOUN to/X reach/VERB a/DETERMINER level/ADJECTIVE position/NOUN is/VERB approximately/ADVERB inversely/ADVERB proportional/ADJECTIVE to/PREPOSITION the/DETERMINER servo/NOUN loop/NOUN gain/NOUN ./PUNCT 
+In/PREPOSITION addition/NOUN ,/PUNCT the/DETERMINER cutoff/NOUN frequency/NOUN for/PREPOSITION input/NOUN accelerations/NOUN is/VERB approximately/ADVERB proportional/ADJECTIVE to/PREPOSITION the/DETERMINER servo/NOUN loop/NOUN gain/NOUN ;/PUNCT ;/PUNCT 
+i.e./ADVERB ,/PUNCT high/ADJECTIVE loop/NOUN gain/NOUN causes/VERB the/DETERMINER system/NOUN to/X respond/VERB to/PREPOSITION horizontal/ADJECTIVE components/NOUN of/PREPOSITION accelerations/NOUN ./PUNCT 
+This/DETERMINER problem/NOUN usually/ADVERB determines/VERB the/DETERMINER lower/ADJECTIVE limit/NOUN of/PREPOSITION loop/NOUN gain/NOUN rather/ADVERB than/CONJUNCTION response/NOUN time/NOUN ./PUNCT 
+
+
+It/PRONOUN must/VERB be/VERB noticed/VERB in/PREPOSITION Fig./NOUN 7-1/NUMBER that/CONJUNCTION the/DETERMINER accelerometer/NOUN responds/VERB to/PREPOSITION any/DETERMINER input/NOUN acceleration/NOUN ./PUNCT 
+The/DETERMINER equation/NOUN relating/VERB input/NOUN acceleration/NOUN to/PREPOSITION output/NOUN platform/NOUN angle/NOUN is/VERB Af/NOUN ./PUNCT 
+In/PREPOSITION practice/NOUN ,/PUNCT the/DETERMINER preflight/ADJECTIVE leveling/VERB process/NOUN takes/VERB place/NOUN with/PREPOSITION the/DETERMINER system/NOUN mounted/VERB in/PREPOSITION the/DETERMINER airframe/NOUN ./PUNCT 
+When/ADVERB the/DETERMINER system/NOUN is/VERB arranged/VERB for/PREPOSITION automatic/ADJECTIVE leveling/NOUN ,/PUNCT the/DETERMINER platform/NOUN angles/NOUN respond/VERB to/PREPOSITION any/DETERMINER horizontal/ADJECTIVE components/NOUN of/PREPOSITION acceleration/NOUN acting/VERB on/PREPOSITION the/DETERMINER accelerometers/NOUN ./PUNCT 
+There/X are/VERB many/DETERMINER such/ADJECTIVE components/NOUN of/PREPOSITION acceleration/NOUN present/ADVERB due/ADVERB to/PREPOSITION the/DETERMINER effect/NOUN of/PREPOSITION wind/NOUN gusts/NOUN ,/PUNCT engine/NOUN noise/NOUN ,/PUNCT turbulence/NOUN around/PREPOSITION the/DETERMINER vehicle/NOUN ,/PUNCT etc./ADVERB ./PUNCT 
+One/NUMBER of/PREPOSITION the/DETERMINER greatest/ADJECTIVE problems/NOUN associated/VERB with/PREPOSITION automatic/ADJECTIVE leveling/NOUN is/VERB establishing/VERB a/DETERMINER true/ADJECTIVE level/NOUN in/PREPOSITION the/DETERMINER presence/NOUN of/PREPOSITION high-level/NOUN acceleration/NOUN noise/NOUN ./PUNCT 
+One/NUMBER solution/NOUN to/PREPOSITION the/DETERMINER problem/NOUN is/VERB to/X operate/VERB with/PREPOSITION a/DETERMINER low/ADJECTIVE loop/NOUN gain/NOUN and/CONJUNCTION to/X include/VERB low-pass/NOUN filters/NOUN ./PUNCT 
+This/DETERMINER technique/NOUN causes/VERB the/DETERMINER system/NOUN to/X respond/VERB only/ADVERB to/PREPOSITION low/ADJECTIVE frequency/NOUN acceleration/NOUN components/NOUN such/ADJECTIVE as/CONJUNCTION the/DETERMINER platform/NOUN tilt/NOUN ./PUNCT 
+Since/CONJUNCTION a/DETERMINER lower/ADJECTIVE loop/NOUN gain/NOUN and/CONJUNCTION low-pass/NOUN filtering/NOUN increases/VERB the/DETERMINER response/NOUN time/NOUN ,/PUNCT a/DETERMINER practical/ADJECTIVE compromise/NOUN must/VERB be/VERB reached/VERB ./PUNCT 
+
+
+One/NUMBER of/PREPOSITION the/DETERMINER most/ADVERB desirable/ADJECTIVE solutions/NOUN is/VERB achieved/VERB by/PREPOSITION the/DETERMINER use/NOUN of/PREPOSITION a/DETERMINER non-linear/ADJECTIVE amplifier/NOUN for/PREPOSITION Af/NOUN ./PUNCT 
+The/DETERMINER amplifier/NOUN is/VERB designed/VERB so/CONJUNCTION that/CONJUNCTION its/PRONOUN gain/NOUN is/VERB large/ADJECTIVE for/PREPOSITION accelerometer/NOUN signals/NOUN above/PREPOSITION a/DETERMINER certain/DETERMINER threshold/NOUN level/NOUN ./PUNCT 
+Below/PREPOSITION this/DETERMINER level/NOUN ,/PUNCT the/DETERMINER amplifier/NOUN gain/NOUN Af/NOUN is/VERB proportional/ADJECTIVE and/CONJUNCTION is/VERB of/PREPOSITION small/ADJECTIVE value/NOUN ,/PUNCT in/PREPOSITION order/NOUN to/X provide/VERB adequate/ADJECTIVE noise/NOUN filtering/NOUN ./PUNCT 
+The/DETERMINER effect/NOUN is/VERB that/CONJUNCTION the/DETERMINER platform/NOUN returns/VERB from/PREPOSITION an/DETERMINER off-level/ADJECTIVE position/NOUN at/PREPOSITION a/DETERMINER rapid/ADJECTIVE rate/NOUN until/CONJUNCTION it/PRONOUN is/VERB nearly/ADVERB level/ADJECTIVE ,/PUNCT at/PREPOSITION which/DETERMINER point/NOUN the/DETERMINER platform/NOUN is/VERB controlled/VERB by/PREPOSITION a/DETERMINER proportional/ADJECTIVE servo/NOUN with/PREPOSITION low/ADJECTIVE enough/ADVERB frequency/NOUN response/NOUN so/CONJUNCTION that/CONJUNCTION the/DETERMINER noise/NOUN has/VERB little/DETERMINER effect/NOUN on/PREPOSITION the/DETERMINER leveling/VERB process/NOUN ./PUNCT 
+
+
+When/ADVERB the/DETERMINER system/NOUN is/VERB on/PREPOSITION automatic/ADJECTIVE leveling/NOUN ,/PUNCT the/DETERMINER gyro/NOUN drift/NOUN is/VERB canceled/VERB by/PREPOSITION the/DETERMINER output/NOUN of/PREPOSITION the/DETERMINER leveling/VERB system/NOUN (/PUNCT amplifier/NOUN Af/NOUN )/PUNCT ./PUNCT 
+The/DETERMINER platform/NOUN actually/ADVERB tilts/VERB off/PREPOSITION level/ADJECTIVE so/CONJUNCTION that/CONJUNCTION the/DETERMINER accelerometer/NOUN output/NOUN ,/PUNCT when/ADVERB amplified/VERB by/PREPOSITION Af/NOUN ,/PUNCT will/VERB supply/VERB the/DETERMINER correct/ADJECTIVE current/NOUN to/PREPOSITION the/DETERMINER gyro/NOUN torquer/NOUN to/X cancel/VERB the/DETERMINER gyro/NOUN drift/NOUN ./PUNCT 
+The/DETERMINER amount/NOUN of/PREPOSITION platform/NOUN dip/NOUN required/VERB depends/VERB upon/PREPOSITION the/DETERMINER scale/NOUN factors/NOUN of/PREPOSITION the/DETERMINER system/NOUN ./PUNCT 
+
+
+
+7-3/NUMBER ./PUNCT 
+Practical/ADJECTIVE leveling/VERB considerations/NOUN ./PUNCT 
+
+The/DETERMINER automatic/ADJECTIVE leveling/VERB system/NOUN described/VERB in/PREPOSITION this/DETERMINER section/NOUN is/VERB readily/ADVERB adaptable/ADJECTIVE to/PREPOSITION a/DETERMINER gyro-stabilized/ADJECTIVE platform/NOUN consisting/VERB of/PREPOSITION three/NUMBER integrating/VERB gyros/NOUN ./PUNCT 
+The/DETERMINER system/NOUN requires/VERB some/DETERMINER switching/NOUN of/PREPOSITION flight/NOUN equipment/NOUN circuits/NOUN ./PUNCT 
+However/ADVERB ,/PUNCT the/DETERMINER leveling/VERB operation/NOUN can/VERB be/VERB maintained/VERB and/CONJUNCTION controlled/VERB remotely/ADVERB with/PREPOSITION no/DETERMINER mechanical/ADJECTIVE or/CONJUNCTION optical/ADJECTIVE contact/NOUN with/PREPOSITION the/DETERMINER platform/NOUN ./PUNCT 
+
+
+This/DETERMINER leveling/VERB system/NOUN will/VERB hold/VERB the/DETERMINER platform/NOUN on-level/ADJECTIVE ,/PUNCT automatically/ADVERB ,/PUNCT as/ADVERB long/ADVERB as/CONJUNCTION the/DETERMINER system/NOUN is/VERB actuated/VERB ./PUNCT 
+A/DETERMINER useful/ADJECTIVE by-product/NOUN of/PREPOSITION this/DETERMINER system/NOUN is/VERB that/CONJUNCTION the/DETERMINER information/NOUN necessary/ADJECTIVE to/X set/VERB the/DETERMINER gyro/NOUN drift/NOUN biases/NOUN is/VERB available/ADJECTIVE from/PREPOSITION the/DETERMINER currents/NOUN necessary/ADJECTIVE to/X hold/VERB the/DETERMINER system/NOUN in/PREPOSITION level/ADJECTIVE ./PUNCT 
+
+
+The/DETERMINER leveling/VERB process/NOUN can/VERB be/VERB accomplished/VERB manually/ADVERB ,/PUNCT and/CONJUNCTION the/DETERMINER results/NOUN are/VERB as/ADVERB satisfactory/ADJECTIVE as/CONJUNCTION those/DETERMINER obtained/VERB with/PREPOSITION automatic/ADJECTIVE equipment/NOUN ./PUNCT 
+The/DETERMINER process/NOUN consists/VERB in/PREPOSITION turning/VERB the/DETERMINER platform/NOUN manually/ADVERB until/CONJUNCTION the/DETERMINER outputs/NOUN of/PREPOSITION both/X accelerometers/NOUN are/VERB zero/NUMBER ./PUNCT 
+The/DETERMINER turning/NOUN is/VERB accomplished/VERB by/PREPOSITION applying/VERB voltage/NOUN to/PREPOSITION the/DETERMINER gyro/NOUN torquers/NOUN described/VERB above/ADVERB ./PUNCT 
+In/PREPOSITION brief/ADJECTIVE ,/PUNCT the/DETERMINER human/NOUN replaces/VERB amplifier/NOUN Af/NOUN in/PREPOSITION Figs./NOUN 7-1/NUMBER and/CONJUNCTION 7-2/NUMBER ./PUNCT 
+
+
+Manual/ADJECTIVE leveling/NOUN requires/VERB an/DETERMINER appropriate/ADJECTIVE display/NOUN of/PREPOSITION the/DETERMINER accelerometer/NOUN outputs/NOUN ./PUNCT 
+If/CONJUNCTION high/ADJECTIVE accuracy/NOUN is/VERB required/VERB in/PREPOSITION preflight/ADJECTIVE leveling/NOUN ,/PUNCT it/PRONOUN is/VERB usually/ADVERB necessary/ADJECTIVE to/X integrate/VERB or/CONJUNCTION doubly/ADVERB integrate/VERB the/DETERMINER accelerometer/NOUN outputs/NOUN (/PUNCT this/DETERMINER also/ADVERB minimizes/VERB the/DETERMINER noise/NOUN problem/NOUN )/PUNCT ./PUNCT 
+With/PREPOSITION integration/NOUN ,/PUNCT the/DETERMINER effect/NOUN of/PREPOSITION a/DETERMINER small/ADJECTIVE acceleration/NOUN (/PUNCT or/CONJUNCTION small/ADJECTIVE platform/NOUN tilt/NOUN angle/NOUN )/PUNCT can/VERB be/VERB seen/VERB after/PREPOSITION a/DETERMINER time/NOUN ./PUNCT 
+However/ADVERB ,/PUNCT skill/NOUN is/VERB required/VERB on/PREPOSITION the/DETERMINER part/NOUN of/PREPOSITION an/DETERMINER operator/NOUN to/X level/VERB a/DETERMINER platform/NOUN to/PREPOSITION any/DETERMINER degree/NOUN of/PREPOSITION accuracy/NOUN ./PUNCT 
+Also/ADVERB ,/PUNCT it/PRONOUN requires/VERB more/DETERMINER time/NOUN as/CONJUNCTION compared/VERB to/PREPOSITION the/DETERMINER automatic/ADJECTIVE approach/NOUN ./PUNCT 
+
+
+Manual/ADJECTIVE leveling/NOUN is/VERB inconvenient/ADJECTIVE if/CONJUNCTION the/DETERMINER platform/NOUN must/VERB be/VERB maintained/VERB accurately/ADVERB level/ADJECTIVE for/PREPOSITION any/DETERMINER prolonged/VERB period/NOUN of/PREPOSITION time/NOUN ./PUNCT 
+The/DETERMINER operator/NOUN must/VERB continually/ADVERB supply/VERB the/DETERMINER correct/ADJECTIVE amount/NOUN of/PREPOSITION turning/VERB current/NOUN to/PREPOSITION the/DETERMINER gyro/NOUN torquers/NOUN so/CONJUNCTION that/CONJUNCTION the/DETERMINER effect/NOUN of/PREPOSITION gyro/NOUN drift/NOUN is/VERB canceled/VERB ./PUNCT 
+This/DETERMINER process/NOUN is/VERB especially/ADVERB difficult/ADJECTIVE since/CONJUNCTION gyro/NOUN drifting/VERB is/VERB typically/ADVERB random/ADJECTIVE ./PUNCT 
+
+
+
+7-4/NUMBER ./PUNCT 
+Platform/NOUN heading/NOUN ./PUNCT 
+
+Platform/NOUN heading/NOUN consists/VERB of/PREPOSITION orienting/VERB the/DETERMINER sensitive/ADJECTIVE axis/NOUN of/PREPOSITION the/DETERMINER accelerometers/NOUN parallel/ADVERB to/PREPOSITION the/DETERMINER desired/VERB coordinate/NOUN system/NOUN of/PREPOSITION the/DETERMINER navigator/NOUN ./PUNCT 
+In/PREPOSITION simpler/ADJECTIVE terms/NOUN ,/PUNCT it/PRONOUN amounts/VERB to/PREPOSITION pointing/VERB the/DETERMINER platform/NOUN in/PREPOSITION the/DETERMINER proper/ADJECTIVE direction/NOUN ./PUNCT 
+
+
+For/PREPOSITION purely/ADVERB inertial/ADJECTIVE navigators/NOUN ,/PUNCT two/NUMBER techniques/NOUN are/VERB available/ADJECTIVE to/X accomplish/VERB the/DETERMINER platform/NOUN heading/NOUN :/X Use/NOUN of/PREPOSITION external/ADJECTIVE or/CONJUNCTION surveying/VERB equipment/NOUN to/X establish/VERB proper/ADJECTIVE heading/NOUN ;/PUNCT ;/PUNCT 
+
+Use/NOUN of/PREPOSITION the/DETERMINER characteristics/NOUN of/PREPOSITION the/DETERMINER platform/NOUN components/NOUN for/PREPOSITION an/DETERMINER indication/NOUN of/PREPOSITION true/ADJECTIVE heading/NOUN ./PUNCT 
+The/DETERMINER choice/NOUN of/PREPOSITION the/DETERMINER heading/NOUN technique/NOUN is/VERB dependent/ADJECTIVE upon/PREPOSITION the/DETERMINER accuracy/NOUN requirements/NOUN ,/PUNCT field/NOUN conditions/NOUN ,/PUNCT and/CONJUNCTION the/DETERMINER time/NOUN available/ADJECTIVE to/X accomplish/VERB the/DETERMINER heading/NOUN ./PUNCT 
+
+
+
+7-5/NUMBER ./PUNCT 
+External/ADJECTIVE determination/NOUN of/PREPOSITION heading/VERB --/PUNCT surveying/VERB technique/NOUN ./PUNCT 
+
+With/PREPOSITION the/DETERMINER gyro-stabilized/ADJECTIVE platform/NOUN leveled/VERB ,/PUNCT it/PRONOUN can/VERB be/VERB headed/VERB in/PREPOSITION the/DETERMINER proper/ADJECTIVE direction/NOUN by/PREPOSITION using/VERB surveying/VERB techniques/NOUN ./PUNCT 
+The/DETERMINER platform/NOUN accelerometers/NOUN must/VERB be/VERB slightly/ADVERB modified/VERB for/PREPOSITION this/DETERMINER procedure/NOUN ./PUNCT 
+Before/CONJUNCTION the/DETERMINER accelerometers/NOUN are/VERB mounted/VERB on/PREPOSITION the/DETERMINER platform/NOUN ,/PUNCT the/DETERMINER direction/NOUN of/PREPOSITION their/PRONOUN sensitive/ADJECTIVE axis/NOUN must/VERB be/VERB accurately/ADVERB determined/VERB ./PUNCT 
+A/DETERMINER mirror/NOUN is/VERB mounted/VERB on/PREPOSITION each/DETERMINER accelerometer/NOUN so/CONJUNCTION that/CONJUNCTION the/DETERMINER plane/NOUN of/PREPOSITION the/DETERMINER mirror/NOUN is/VERB perpendicular/ADJECTIVE to/PREPOSITION the/DETERMINER sensitive/ADJECTIVE axis/NOUN of/PREPOSITION the/DETERMINER unit/NOUN ./PUNCT 
+Transit/NOUN ./PUNCT 
+
+A/DETERMINER precision/NOUN transit/NOUN is/VERB set/VERB up/ADVERB so/CONJUNCTION that/CONJUNCTION it/PRONOUN is/VERB aligned/VERB with/PREPOSITION respect/NOUN to/PREPOSITION true/ADJECTIVE north/NOUN ./PUNCT 
+This/DETERMINER can/VERB be/VERB done/VERB to/PREPOSITION a/DETERMINER high/ADJECTIVE degree/NOUN of/PREPOSITION accuracy/NOUN by/PREPOSITION existing/VERB surveying/VERB techniques/NOUN ./PUNCT 
+With/PREPOSITION the/DETERMINER transit/NOUN set/VERB up/ADVERB ,/PUNCT a/DETERMINER mirror/NOUN on/PREPOSITION one/NUMBER of/PREPOSITION the/DETERMINER accelerometers/NOUN is/VERB sighted/VERB and/CONJUNCTION the/DETERMINER platform/NOUN is/VERB turned/VERB until/CONJUNCTION it/PRONOUN is/VERB aligned/VERB ./PUNCT 
+
+
+The/DETERMINER sighting/VERB procedure/NOUN includes/VERB the/DETERMINER use/NOUN of/PREPOSITION a/DETERMINER fixture/NOUN for/PREPOSITION the/DETERMINER transit/NOUN to/X project/VERB a/DETERMINER beam/NOUN of/PREPOSITION light/NOUN ,/PUNCT which/DETERMINER is/VERB darkened/VERB by/PREPOSITION crossed/VERB hairs/NOUN ,/PUNCT on/PREPOSITION the/DETERMINER accelerometer/NOUN mirror/NOUN ./PUNCT 
+When/ADVERB the/DETERMINER platform/NOUN is/VERB aligned/VERB ,/PUNCT the/DETERMINER reflected/VERB image/NOUN of/PREPOSITION the/DETERMINER crossed/VERB hairs/NOUN can/VERB be/VERB seen/VERB exactly/ADVERB superimposed/VERB upon/PREPOSITION the/DETERMINER original/ADJECTIVE crossed/VERB hairs/NOUN ./PUNCT 
+The/DETERMINER images/NOUN can/VERB easily/ADVERB be/VERB aligned/VERB with/PREPOSITION a/DETERMINER high/ADJECTIVE degree/NOUN of/PREPOSITION accuracy/NOUN ./PUNCT 
+The/DETERMINER platform/NOUN is/VERB turned/VERB as/CONJUNCTION required/VERB by/PREPOSITION supplying/VERB currents/NOUN to/PREPOSITION the/DETERMINER appropriate/ADJECTIVE gyro/NOUN torquers/NOUN ./PUNCT 
+
+
+Although/CONJUNCTION this/DETERMINER technique/NOUN is/VERB simple/ADJECTIVE and/CONJUNCTION satisfactory/ADJECTIVE ,/PUNCT one/NUMBER practical/ADJECTIVE difficulty/NOUN does/VERB exist/VERB :/X the/DETERMINER direction/NOUN of/PREPOSITION true/ADJECTIVE north/NOUN must/VERB be/VERB known/VERB for/PREPOSITION each/DETERMINER launch/NOUN point/NOUN ./PUNCT 
+However/ADVERB ,/PUNCT this/DETERMINER difficulty/NOUN is/VERB not/PUNCT too/ADVERB serious/ADJECTIVE if/CONJUNCTION it/PRONOUN is/VERB realized/VERB that/CONJUNCTION a/DETERMINER surveying/VERB team/NOUN can/VERB establish/VERB a/DETERMINER true/ADJECTIVE north/NOUN base/NOUN line/NOUN with/PREPOSITION a/DETERMINER few/DETERMINER days'/NOUN work/NOUN ./PUNCT 
+
+
+In/PREPOSITION many/DETERMINER installations/NOUN ,/PUNCT the/DETERMINER inertial/ADJECTIVE platform/NOUN is/VERB raised/VERB off/PREPOSITION the/DETERMINER ground/NOUN a/DETERMINER considerable/ADJECTIVE height/NOUN when/ADVERB it/PRONOUN is/VERB mounted/VERB in/PREPOSITION the/DETERMINER vehicle/NOUN before/PREPOSITION flight/NOUN ./PUNCT 
+With/PREPOSITION this/DETERMINER situation/NOUN ,/PUNCT it/PRONOUN is/VERB difficult/ADJECTIVE to/X sight/VERB in/ADVERB on/PREPOSITION the/DETERMINER platform/NOUN with/PREPOSITION surveying/VERB equipment/NOUN ./PUNCT 
+If/CONJUNCTION the/DETERMINER platform/NOUN is/VERB not/PUNCT too/ADVERB high/ADVERB off/PREPOSITION the/DETERMINER ground/NOUN ,/PUNCT a/DETERMINER transit/NOUN can/VERB be/VERB mounted/VERB on/PREPOSITION a/DETERMINER stand/NOUN to/X raise/VERB it/PRONOUN up/ADVERB to/PREPOSITION the/DETERMINER platform/NOUN ./PUNCT 
+Obviously/ADVERB ,/PUNCT the/DETERMINER heading/NOUN accuracy/NOUN is/VERB lessened/VERB by/PREPOSITION such/ADJECTIVE techniques/NOUN since/CONJUNCTION errors/NOUN are/VERB introduced/VERB because/ADVERB of/PREPOSITION motion/NOUN of/PREPOSITION the/DETERMINER stand/NOUN ./PUNCT 
+Autocollimator/NOUN ./PUNCT 
+
+The/DETERMINER transit/NOUN can/VERB be/VERB replaced/VERB by/PREPOSITION an/DETERMINER autocollimator/NOUN ./PUNCT 
+This/DETERMINER instrument/NOUN provides/VERB an/DETERMINER electrical/ADJECTIVE signal/NOUN proportional/ADJECTIVE to/PREPOSITION the/DETERMINER angular/ADJECTIVE deviations/NOUN of/PREPOSITION the/DETERMINER platform/NOUN and/CONJUNCTION can/VERB be/VERB used/VERB to/X automatically/ADVERB hold/VERB the/DETERMINER platform/NOUN on/PREPOSITION true/ADJECTIVE heading/NOUN ./PUNCT 
+The/DETERMINER electrical/ADJECTIVE signal/NOUN from/PREPOSITION the/DETERMINER autocollimator/NOUN is/VERB amplified/VERB and/CONJUNCTION supplied/VERB to/PREPOSITION the/DETERMINER Z-gyro/NOUN torquer/NOUN ./PUNCT 
+If/CONJUNCTION the/DETERMINER polarity/NOUN is/VERB correct/ADJECTIVE ,/PUNCT the/DETERMINER platform/NOUN will/VERB turn/VERB until/CONJUNCTION the/DETERMINER heading/NOUN error/NOUN angle/NOUN is/VERB zero/NUMBER ./PUNCT 
+Information/NOUN is/VERB also/ADVERB available/ADJECTIVE from/PREPOSITION this/DETERMINER autocollimator/NOUN system/NOUN to/X set/VERB the/DETERMINER drift/NOUN bias/NOUN for/PREPOSITION the/DETERMINER Z-axis/NOUN gyro/NOUN ./PUNCT 
+If/CONJUNCTION the/DETERMINER Z/NOUN gyro/NOUN is/VERB drifting/VERB ,/PUNCT a/DETERMINER current/NOUN generated/VERB by/PREPOSITION the/DETERMINER autocollimator/NOUN is/VERB delivered/VERB to/PREPOSITION the/DETERMINER gyro/NOUN torquer/NOUN to/X cancel/VERB the/DETERMINER drift/NOUN ./PUNCT 
+If/CONJUNCTION the/DETERMINER drift/NOUN error/NOUN is/VERB systematic/ADJECTIVE ,/PUNCT it/PRONOUN can/VERB be/VERB canceled/VERB with/PREPOSITION a/DETERMINER bias/NOUN circuit/NOUN which/DETERMINER can/VERB be/VERB arranged/VERB and/CONJUNCTION adjusted/VERB to/X supply/VERB the/DETERMINER required/VERB compensating/VERB current/NOUN ./PUNCT 
+Electrical/ADJECTIVE pickoffs/NOUN ./PUNCT 
+
+It/PRONOUN is/VERB possible/ADJECTIVE to/X locate/VERB an/DETERMINER angular/ADJECTIVE electrical/ADJECTIVE pickoff/NOUN ,/PUNCT which/DETERMINER will/VERB indicate/VERB the/DETERMINER angular/ADJECTIVE deviation/NOUN between/PREPOSITION the/DETERMINER true/ADJECTIVE heading/NOUN direction/NOUN and/CONJUNCTION the/DETERMINER platform/NOUN ./PUNCT 
+Essentially/ADVERB ,/PUNCT the/DETERMINER stator/NOUN or/CONJUNCTION reference/NOUN portion/NOUN of/PREPOSITION the/DETERMINER pickoff/NOUN is/VERB established/VERB with/PREPOSITION respect/NOUN to/PREPOSITION the/DETERMINER true/ADJECTIVE heading/NOUN direction/NOUN ,/PUNCT and/CONJUNCTION the/DETERMINER platform/NOUN is/VERB turned/VERB either/CONJUNCTION manually/ADVERB or/CONJUNCTION automatically/ADVERB until/CONJUNCTION the/DETERMINER angular/ADJECTIVE electrical/ADJECTIVE pickoff/NOUN signal/NOUN is/VERB reduced/VERB to/PREPOSITION zero/NUMBER ./PUNCT 
+
+
+
+7-6/NUMBER ./PUNCT 
+Gyrocompass/NOUN heading/VERB ./PUNCT 
+
+Gyrocompass/NOUN alignment/NOUN is/VERB an/DETERMINER automatic/ADJECTIVE heading/NOUN system/NOUN which/DETERMINER depends/VERB upon/PREPOSITION the/DETERMINER characteristic/NOUN of/PREPOSITION one/NUMBER gyro/NOUN to/X establish/VERB true/ADJECTIVE heading/NOUN ./PUNCT 
+For/PREPOSITION the/DETERMINER case/NOUN of/PREPOSITION a/DETERMINER purely/ADVERB inertial/ADJECTIVE autonavigator/NOUN consisting/VERB of/PREPOSITION three/NUMBER restrained/VERB gyros/NOUN ,/PUNCT a/DETERMINER coordinate/NOUN system/NOUN is/VERB used/VERB where/ADVERB the/DETERMINER sensitive/ADJECTIVE axis/NOUN of/PREPOSITION the/DETERMINER X/NOUN accelerometer/NOUN is/VERB parallel/ADVERB to/PREPOSITION the/DETERMINER east-west/ADJECTIVE direction/NOUN at/PREPOSITION the/DETERMINER base/NOUN point/NOUN ,/PUNCT and/CONJUNCTION the/DETERMINER Y/NOUN accelerometer/NOUN sensitive/ADJECTIVE axis/NOUN is/VERB parallel/ADVERB to/PREPOSITION the/DETERMINER north-south/ADJECTIVE direction/NOUN at/PREPOSITION the/DETERMINER base/NOUN point/NOUN ./PUNCT 
+The/DETERMINER accelerometers/NOUN are/VERB mounted/VERB rigidly/ADVERB on/PREPOSITION the/DETERMINER platform/NOUN ./PUNCT 
+Thus/ADVERB ,/PUNCT if/CONJUNCTION one/NUMBER accelerometer/NOUN is/VERB properly/ADVERB aligned/VERB ,/PUNCT the/DETERMINER other/DETERMINER is/VERB also/ADVERB ./PUNCT 
+The/DETERMINER input/NOUN axis/NOUN of/PREPOSITION the/DETERMINER appropriate/ADJECTIVE gyros/NOUN are/VERB parallel/ADVERB to/PREPOSITION the/DETERMINER sensitive/ADJECTIVE direction/NOUN of/PREPOSITION the/DETERMINER accelerometers/NOUN ./PUNCT 
+
+
+Figure/NOUN 7-3/NUMBER shows/VERB a/DETERMINER platform/NOUN system/NOUN with/PREPOSITION the/DETERMINER gyro/NOUN vectors/NOUN arranged/VERB as/CONJUNCTION described/VERB above/ADVERB ./PUNCT 
+The/DETERMINER platform/NOUN is/VERB leveled/VERB and/CONJUNCTION properly/ADVERB headed/VERB ,/PUNCT so/CONJUNCTION that/CONJUNCTION the/DETERMINER X-gyro/NOUN input/NOUN axis/NOUN is/VERB parallel/ADVERB to/PREPOSITION the/DETERMINER east-west/ADJECTIVE direction/NOUN and/CONJUNCTION the/DETERMINER Y-gyro/NOUN input/NOUN axis/NOUN is/VERB parallel/ADVERB to/PREPOSITION the/DETERMINER north-south/ADJECTIVE direction/NOUN ./PUNCT 
+
+
+The/DETERMINER input/NOUN axis/NOUN of/PREPOSITION the/DETERMINER X/NOUN gyro/NOUN ,/PUNCT when/ADVERB pointing/VERB in/PREPOSITION the/DETERMINER east-west/ADJECTIVE direction/NOUN ,/PUNCT is/VERB always/ADVERB perpendicular/ADJECTIVE to/PREPOSITION the/DETERMINER spin/NOUN axis/NOUN of/PREPOSITION earth/NOUN ./PUNCT 
+If/CONJUNCTION the/DETERMINER platform/NOUN is/VERB not/PUNCT properly/ADVERB headed/VERB ,/PUNCT the/DETERMINER X-gyro/NOUN input/NOUN axis/NOUN will/VERB see/VERB a/DETERMINER component/NOUN of/PREPOSITION the/DETERMINER earth's/NOUN rotation/NOUN ./PUNCT 
+The/DETERMINER sensing/NOUN of/PREPOSITION this/DETERMINER rotation/NOUN by/PREPOSITION the/DETERMINER X/NOUN gyro/NOUN can/VERB be/VERB utilized/VERB to/X direct/VERB the/DETERMINER platform/NOUN into/PREPOSITION proper/ADJECTIVE heading/NOUN ./PUNCT 
+
+
+In/PREPOSITION Fig./NOUN 7-4/NUMBER ,/PUNCT the/DETERMINER input/NOUN axis/NOUN of/PREPOSITION the/DETERMINER three-axis/ADJECTIVE platform/NOUN is/VERB shown/VERB at/PREPOSITION some/DETERMINER point/NOUN on/PREPOSITION the/DETERMINER earth/NOUN ./PUNCT 
+The/DETERMINER point/NOUN is/VERB at/PREPOSITION a/DETERMINER latitude/NOUN **yl/NOUN ,/PUNCT and/CONJUNCTION the/DETERMINER platform/NOUN is/VERB at/PREPOSITION an/DETERMINER error/NOUN in/PREPOSITION heading/VERB east/NOUN ./PUNCT 
+The/DETERMINER earth/NOUN is/VERB spinning/VERB at/PREPOSITION an/DETERMINER angular/ADJECTIVE velocity/NOUN **zq/NOUN equal/ADJECTIVE to/PREPOSITION one/NUMBER revolution/NOUN per/PREPOSITION 24/NUMBER hr./NOUN ./PUNCT 
+When/ADVERB the/DETERMINER platform/NOUN is/VERB level/ADJECTIVE ,/PUNCT **ye/NOUN is/VERB a/DETERMINER rotation/NOUN about/PREPOSITION the/DETERMINER Z/NOUN axis/NOUN of/PREPOSITION the/DETERMINER platform/NOUN Af/NOUN ./PUNCT 
+Since/CONJUNCTION the/DETERMINER earth/NOUN is/VERB rotating/VERB and/CONJUNCTION the/DETERMINER unleveled/ADJECTIVE gyro-stabilized/ADJECTIVE platform/NOUN is/VERB fixed/VERB with/PREPOSITION respect/NOUN to/PREPOSITION a/DETERMINER reference/NOUN in/PREPOSITION space/NOUN ,/PUNCT an/DETERMINER observer/NOUN on/PREPOSITION the/DETERMINER earth/NOUN will/VERB see/VERB the/DETERMINER platform/NOUN rotating/VERB (/PUNCT with/PREPOSITION respect/NOUN to/PREPOSITION the/DETERMINER earth/NOUN )/PUNCT ./PUNCT 
+

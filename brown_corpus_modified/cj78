@@ -1,0 +1,183 @@
+
+
+High-gain/NOUN ,/PUNCT photoelectronic/ADJECTIVE image/NOUN intensification/NOUN is/VERB applied/VERB under/PREPOSITION conditions/NOUN of/PREPOSITION low/ADJECTIVE incident/ADJECTIVE light/NOUN levels/NOUN whenever/ADVERB the/DETERMINER integration/NOUN time/NOUN required/VERB by/PREPOSITION a/DETERMINER sensor/NOUN or/CONJUNCTION recording/VERB instrument/NOUN exceeds/VERB the/DETERMINER limits/NOUN of/PREPOSITION practicability/NOUN ./PUNCT 
+Examples/NOUN of/PREPOSITION such/ADJECTIVE situations/NOUN are/VERB (/PUNCT aerial/ADJECTIVE )/PUNCT night/NOUN reconnaissance/NOUN ,/PUNCT the/DETERMINER recording/NOUN of/PREPOSITION radioactive/ADJECTIVE tracers/NOUN in/PREPOSITION live/ADJECTIVE body/NOUN tissues/NOUN ,/PUNCT special/ADJECTIVE radiography/NOUN in/PREPOSITION medical/ADJECTIVE or/CONJUNCTION industrial/ADJECTIVE applications/NOUN ,/PUNCT track/NOUN recording/NOUN of/PREPOSITION high/ADJECTIVE energy/NOUN particles/NOUN ,/PUNCT etc./ADVERB ./PUNCT 
+
+
+High-gain/NOUN photoelectronic/ADJECTIVE image/NOUN intensification/NOUN may/VERB be/VERB achieved/VERB by/PREPOSITION several/DETERMINER methods/NOUN ;/PUNCT ;/PUNCT 
+some/DETERMINER of/PREPOSITION these/DETERMINER are/VERB listed/VERB below/ADVERB :/X (/PUNCT A/NOUN )/PUNCT 
+Cascading/VERB single/DETERMINER stages/NOUN by/PREPOSITION coupling/VERB lens/NOUN systems/NOUN ,/PUNCT (/PUNCT B/NOUN )/PUNCT 
+Channel-type/ADJECTIVE ,/PUNCT secondary/ADJECTIVE emission/NOUN image/NOUN intensifier/NOUN ,/PUNCT (/PUNCT C/NOUN )/PUNCT 
+Image/NOUN intensifier/NOUN based/VERB upon/PREPOSITION the/DETERMINER ``/PUNCT multipactor/NOUN ''/PUNCT principle/NOUN ,/PUNCT (/PUNCT D/NOUN )/PUNCT 
+Transmission/NOUN secondary/ADJECTIVE electron/NOUN multiplication/NOUN image/NOUN intensifiers/NOUN (/PUNCT TSEM/NOUN tubes/NOUN )/PUNCT ,/PUNCT (/PUNCT E/NOUN )/PUNCT 
+Cascading/VERB of/PREPOSITION single/DETERMINER stages/NOUN ,/PUNCT enclosed/VERB in/PREPOSITION one/NUMBER common/ADJECTIVE envelope/NOUN ./PUNCT 
+
+
+Cascading/VERB single/DETERMINER stages/NOUN by/PREPOSITION coupling/VERB lens/NOUN systems/NOUN is/VERB rather/ADVERB inefficient/ADJECTIVE as/CONJUNCTION the/DETERMINER lens/NOUN systems/NOUN limit/VERB the/DETERMINER obtainable/ADJECTIVE gain/NOUN quite/ADVERB severely/ADVERB ./PUNCT 
+Channel-type/ADJECTIVE image/NOUN intensifiers/NOUN are/VERB capable/ADJECTIVE of/PREPOSITION achieving/VERB high-gain/NOUN values/NOUN ;/PUNCT ;/PUNCT 
+they/PRONOUN suffer/VERB ,/PUNCT however/ADVERB ,/PUNCT from/PREPOSITION an/DETERMINER inherently/ADVERB low/ADJECTIVE resolution/NOUN ./PUNCT 
+Image/NOUN intensifiers/NOUN based/VERB upon/PREPOSITION the/DETERMINER multipactor/NOUN principle/NOUN appear/VERB to/X hold/VERB promise/NOUN as/ADVERB far/ADVERB as/CONJUNCTION obtainable/ADJECTIVE resolution/NOUN is/VERB concerned/VERB ./PUNCT 
+However/ADVERB ,/PUNCT the/DETERMINER unavoidable/ADJECTIVE low-duty/NOUN cycle/NOUN restricts/VERB the/DETERMINER effective/ADJECTIVE gain/NOUN ./PUNCT 
+TSEM/NOUN tubes/NOUN have/VERB been/VERB constructed/VERB showing/VERB high/ADJECTIVE gain/NOUN and/CONJUNCTION resolution/NOUN ./PUNCT 
+However/ADVERB ,/PUNCT electrostatic/ADJECTIVE focus/NOUN ,/PUNCT important/ADJECTIVE for/PREPOSITION many/DETERMINER applications/NOUN ,/PUNCT has/VERB not/PUNCT been/VERB realized/VERB for/PREPOSITION these/DETERMINER devices/NOUN ./PUNCT 
+Resolution/NOUN limitations/NOUN with/PREPOSITION electrostatic/ADJECTIVE focus/NOUN might/VERB be/VERB anticipated/VERB due/ADVERB to/PREPOSITION chromatic/ADJECTIVE aberrations/NOUN ./PUNCT 
+Furthermore/ADVERB ,/PUNCT the/DETERMINER thin/ADJECTIVE film/NOUN dynodes/NOUN appear/VERB to/X have/VERB a/DETERMINER natural/ADJECTIVE diameter/NOUN limitation/NOUN wherever/ADVERB a/DETERMINER mesh/NOUN support/NOUN cannot/VERB be/VERB tolerated/VERB ./PUNCT 
+
+
+Cascaded/VERB single/DETERMINER stages/NOUN enclosed/VERB by/PREPOSITION a/DETERMINER common/ADJECTIVE envelope/NOUN have/VERB been/VERB constructed/VERB with/PREPOSITION high/ADJECTIVE gain/NOUN and/CONJUNCTION high/ADJECTIVE resolution/NOUN ./PUNCT 
+These/DETERMINER tubes/NOUN may/VERB differ/VERB both/X in/PREPOSITION the/DETERMINER choice/NOUN of/PREPOSITION the/DETERMINER electron/NOUN optical/ADJECTIVE system/NOUN and/CONJUNCTION in/PREPOSITION the/DETERMINER design/NOUN of/PREPOSITION the/DETERMINER coupling/VERB members/NOUN ./PUNCT 
+The/DETERMINER electron/NOUN optical/ADJECTIVE system/NOUN may/VERB be/VERB either/CONJUNCTION a/DETERMINER magnetic/ADJECTIVE or/CONJUNCTION electrostatic/ADJECTIVE one/NUMBER ./PUNCT 
+The/DETERMINER magnification/NOUN may/VERB be/VERB smaller/ADJECTIVE ,/PUNCT equal/ADJECTIVE ,/PUNCT or/CONJUNCTION larger/ADJECTIVE than/CONJUNCTION unity/NOUN ./PUNCT 
+
+
+An/DETERMINER electrostatic/ADJECTIVE system/NOUN suffers/VERB generally/ADVERB from/PREPOSITION image/NOUN plane/NOUN curvature/NOUN leading/VERB to/PREPOSITION defocusing/VERB in/PREPOSITION the/DETERMINER peripheral/ADJECTIVE image/NOUN region/NOUN if/CONJUNCTION a/DETERMINER flat/ADJECTIVE viewing/VERB screen/NOUN (/PUNCT or/CONJUNCTION interstage/ADJECTIVE coupler/NOUN )/PUNCT is/VERB utilized/VERB ,/PUNCT while/CONJUNCTION a/DETERMINER magnetic/ADJECTIVE system/NOUN requires/VERB accurate/ADJECTIVE adjustment/NOUN of/PREPOSITION the/DETERMINER solenoid/NOUN ,/PUNCT which/DETERMINER is/VERB heavy/ADJECTIVE and/CONJUNCTION bulky/ADJECTIVE ./PUNCT 
+As/CONJUNCTION it/PRONOUN will/VERB be/VERB discussed/VERB later/ADVERB ,/PUNCT peripheral/ADJECTIVE defocusing/VERB can/VERB be/VERB improved/VERB on/ADVERB by/PREPOSITION utilizing/VERB curved/VERB fiber/NOUN couplers/NOUN ./PUNCT 
+It/PRONOUN should/VERB be/VERB noted/VERB ,/PUNCT however/ADVERB ,/PUNCT that/CONJUNCTION the/DETERMINER paraxial/ADJECTIVE resolution/NOUN is/VERB quite/ADVERB similar/ADJECTIVE for/PREPOSITION both/X electron/NOUN optical/ADJECTIVE systems/NOUN ./PUNCT 
+
+
+It/PRONOUN is/VERB felt/VERB that/CONJUNCTION fiber-coupled/ADJECTIVE double-/ADJECTIVE (/PUNCT and/CONJUNCTION multi-/ADJECTIVE )/PUNCT stage/NOUN image/NOUN intensifiers/NOUN will/VERB gain/VERB considerable/ADJECTIVE importance/NOUN in/PREPOSITION the/DETERMINER future/NOUN ./PUNCT 
+Therefore/ADVERB ,/PUNCT we/PRONOUN shall/VERB consider/VERB in/PREPOSITION this/DETERMINER paper/NOUN the/DETERMINER theoretical/ADJECTIVE gain/NOUN and/CONJUNCTION resolution/NOUN capabilities/NOUN of/PREPOSITION such/ADJECTIVE tubes/NOUN ./PUNCT 
+The/DETERMINER luminous/ADJECTIVE efficiency/NOUN and/CONJUNCTION resolution/NOUN of/PREPOSITION single/DETERMINER stages/NOUN ,/PUNCT fiber/NOUN couplers/NOUN ,/PUNCT and/CONJUNCTION finally/ADVERB of/PREPOSITION the/DETERMINER composite/ADJECTIVE tube/NOUN will/VERB be/VERB computed/VERB ./PUNCT 
+
+
+It/PRONOUN will/VERB be/VERB shown/VERB theoretically/ADVERB that/CONJUNCTION the/DETERMINER high/ADJECTIVE image/NOUN intensification/NOUN obtainable/ADJECTIVE with/PREPOSITION such/X a/DETERMINER tube/NOUN and/CONJUNCTION contact/NOUN photography/NOUN permits/VERB the/DETERMINER utilization/NOUN of/PREPOSITION extremely/ADVERB low/ADJECTIVE incident/ADJECTIVE light/NOUN levels/NOUN ./PUNCT 
+The/DETERMINER effect/NOUN of/PREPOSITION device/NOUN and/CONJUNCTION quantum/NOUN noise/NOUN ,/PUNCT associated/VERB with/PREPOSITION such/ADVERB low/ADJECTIVE input/NOUN levels/NOUN ,/PUNCT will/VERB be/VERB described/VERB ./PUNCT 
+
+
+After/PREPOSITION these/DETERMINER theoretical/ADJECTIVE considerations/NOUN ,/PUNCT constructional/ADJECTIVE details/NOUN of/PREPOSITION a/DETERMINER fiber-coupled/ADJECTIVE ,/PUNCT double-stage/NOUN X-ray/NOUN image/NOUN intensifier/NOUN will/VERB be/VERB discussed/VERB ./PUNCT 
+Measured/VERB performance/NOUN characteristics/NOUN for/PREPOSITION this/DETERMINER experimental/ADJECTIVE tube/NOUN will/VERB be/VERB listed/VERB ./PUNCT 
+
+
+The/DETERMINER conclusion/NOUN shall/VERB be/VERB reached/VERB that/CONJUNCTION fiber-coupled/ADJECTIVE ,/PUNCT double-stage/NOUN tubes/NOUN represent/VERB a/DETERMINER sensible/ADJECTIVE and/CONJUNCTION practical/ADJECTIVE approach/NOUN to/PREPOSITION high-gain/NOUN image/NOUN intensification/NOUN ./PUNCT 
+
+
+
+Basic/ADJECTIVE design/NOUN of/PREPOSITION a/DETERMINER fiber-coupled/ADJECTIVE ,/PUNCT double-stage/NOUN image/NOUN intensifier/NOUN 
+The/DETERMINER tube/NOUN design/NOUN which/DETERMINER forms/VERB the/DETERMINER basis/NOUN of/PREPOSITION the/DETERMINER theoretical/ADJECTIVE discussion/NOUN shall/VERB be/VERB described/VERB now/ADVERB ./PUNCT 
+The/DETERMINER electron/NOUN optical/ADJECTIVE system/NOUN (/PUNCT see/VERB fig./NOUN 14-1/NUMBER )/PUNCT is/VERB based/VERB in/PREPOSITION principle/NOUN on/PREPOSITION the/DETERMINER focusing/VERB action/NOUN of/PREPOSITION concentric/ADJECTIVE spherical/ADJECTIVE cathode/NOUN and/CONJUNCTION anode/NOUN surfaces/NOUN ./PUNCT 
+The/DETERMINER inner/ADJECTIVE (/PUNCT anode/NOUN )/PUNCT sphere/NOUN is/VERB pierced/VERB ,/PUNCT elongated/VERB into/PREPOSITION a/DETERMINER cup/NOUN ,/PUNCT and/CONJUNCTION terminated/VERB by/PREPOSITION the/DETERMINER phosphor/NOUN screen/NOUN ./PUNCT 
+The/DETERMINER photoelectrons/NOUN emitted/VERB from/PREPOSITION a/DETERMINER circular/ADJECTIVE segment/NOUN of/PREPOSITION the/DETERMINER cathode/NOUN sphere/NOUN are/VERB focused/VERB by/PREPOSITION the/DETERMINER positive/ADJECTIVE lens/NOUN action/NOUN of/PREPOSITION the/DETERMINER two/NUMBER concentric/ADJECTIVE spheres/NOUN ,/PUNCT pass/VERB through/PREPOSITION the/DETERMINER (/PUNCT negative/ADJECTIVE )/PUNCT lens/NOUN formed/VERB by/PREPOSITION the/DETERMINER anode/NOUN aperture/NOUN ,/PUNCT and/CONJUNCTION impinge/VERB upon/PREPOSITION the/DETERMINER cathodoluminescent/ADJECTIVE viewing/VERB screen/NOUN ./PUNCT 
+The/DETERMINER cylindrical/ADJECTIVE focusing/VERB electrode/NOUN permits/VERB adjustment/NOUN of/PREPOSITION the/DETERMINER positive/ADJECTIVE lens/NOUN part/NOUN by/PREPOSITION varying/VERB the/DETERMINER focusing/VERB potential/NOUN ./PUNCT 
+The/DETERMINER anode/NOUN potential/NOUN codetermines/VERB the/DETERMINER gain/NOUN ,/PUNCT G/NOUN ,/PUNCT and/CONJUNCTION magnification/NOUN ,/PUNCT M/NOUN ,/PUNCT of/PREPOSITION the/DETERMINER stage/NOUN ./PUNCT 
+
+
+Both/X the/DETERMINER photocathode/NOUN and/CONJUNCTION the/DETERMINER image/NOUN plane/NOUN of/PREPOSITION such/X an/DETERMINER electrode/NOUN configuration/NOUN are/VERB curved/VERB concave/ADJECTIVE as/CONJUNCTION seen/VERB from/PREPOSITION the/DETERMINER anode/NOUN aperture/NOUN ./PUNCT 
+The/DETERMINER field-flattening/ADJECTIVE property/NOUN of/PREPOSITION the/DETERMINER biconcave/ADJECTIVE fiber/NOUN coupler/NOUN can/VERB be/VERB utilized/VERB to/X alleviate/VERB the/DETERMINER peripheral/ADJECTIVE resolution/NOUN losses/NOUN resulting/VERB with/PREPOSITION a/DETERMINER flat/ADJECTIVE phosphor-screen/NOUN or/CONJUNCTION coupling/VERB member/NOUN ./PUNCT 
+For/PREPOSITION the/DETERMINER same/DETERMINER reason/NOUN ,/PUNCT the/DETERMINER output/NOUN fiber/NOUN plate/NOUN is/VERB planoconcave/ADJECTIVE ,/PUNCT its/PRONOUN exposed/VERB flat/ADJECTIVE side/NOUN permitting/VERB contact/NOUN photography/NOUN if/CONJUNCTION a/DETERMINER permanent/ADJECTIVE record/NOUN is/VERB desired/VERB ./PUNCT 
+As/CONJUNCTION it/PRONOUN will/VERB be/VERB shown/VERB later/ADVERB ,/PUNCT the/DETERMINER field-flattening/ADJECTIVE properties/NOUN of/PREPOSITION the/DETERMINER interstage/ADJECTIVE and/CONJUNCTION output/NOUN fiber/NOUN coupler/NOUN comprise/VERB indeed/ADVERB the/DETERMINER main/ADJECTIVE advantage/NOUN of/PREPOSITION such/X a/DETERMINER design/NOUN ./PUNCT 
+
+
+The/DETERMINER second/NUMBER photocathode/NOUN and/CONJUNCTION both/X phosphor/NOUN surfaces/NOUN are/VERB deposited/VERB on/PREPOSITION the/DETERMINER fiber/NOUN plate/NOUN substrates/NOUN ./PUNCT 
+The/DETERMINER photocathode/NOUN sensitivities/NOUN S/NOUN ,/PUNCT phosphor/NOUN efficiencies/NOUN P/NOUN ,/PUNCT and/CONJUNCTION anode/NOUN potentials/NOUN V/NOUN of/PREPOSITION the/DETERMINER individual/ADJECTIVE stages/NOUN shall/VERB be/VERB distinguished/VERB by/PREPOSITION means/NOUN of/PREPOSITION subscripts/NOUN 1/NUMBER ,/PUNCT and/CONJUNCTION 2/NUMBER ,/PUNCT in/PREPOSITION the/DETERMINER text/NOUN ,/PUNCT where/ADVERB required/VERB ./PUNCT 
+Both/X stages/NOUN are/VERB assumed/VERB to/X have/VERB unity/NOUN magnification/NOUN ./PUNCT 
+
+
+
+Theoretical/ADJECTIVE discussion/NOUN of/PREPOSITION flux/NOUN gain/NOUN 
+flux/NOUN gain/NOUN of/PREPOSITION a/DETERMINER single/DETERMINER stage/NOUN 
+The/DETERMINER luminous/ADJECTIVE gain/NOUN of/PREPOSITION a/DETERMINER single/DETERMINER stage/NOUN with/PREPOSITION Af/NOUN (/PUNCT flux/NOUN gain/NOUN )/PUNCT is/VERB ,/PUNCT to/PREPOSITION a/DETERMINER first/NUMBER approximation/NOUN ,/PUNCT given/VERB by/PREPOSITION the/DETERMINER product/NOUN of/PREPOSITION the/DETERMINER photocathode/NOUN sensitivity/NOUN S/NOUN (/PUNCT amp/NOUN /X lumen/NOUN )/PUNCT ,/PUNCT the/DETERMINER anode/NOUN potential/NOUN V/NOUN (/PUNCT volts/NOUN )/PUNCT ,/PUNCT and/CONJUNCTION the/DETERMINER phosphor/NOUN conversion/NOUN efficiency/NOUN P/NOUN (/PUNCT lumen/X )/PUNCT ./PUNCT 
+In/PREPOSITION general/ADJECTIVE ,/PUNCT P/NOUN is/VERB a/DETERMINER function/NOUN of/PREPOSITION V/NOUN and/CONJUNCTION the/DETERMINER current/ADJECTIVE density/NOUN ,/PUNCT but/CONJUNCTION it/PRONOUN shall/VERB here/ADVERB be/VERB assumed/VERB as/CONJUNCTION a/DETERMINER constant/NOUN ./PUNCT 
+
+
+The/DETERMINER luminous/ADJECTIVE efficiency/NOUN Af/NOUN of/PREPOSITION a/DETERMINER photocathode/NOUN depends/VERB on/PREPOSITION the/DETERMINER maximum/ADJECTIVE radiant/ADJECTIVE sensitivity/NOUN Af/NOUN and/CONJUNCTION on/PREPOSITION the/DETERMINER spectral/ADJECTIVE distribution/NOUN of/PREPOSITION the/DETERMINER incident/ADJECTIVE light/NOUN Af/NOUN by/PREPOSITION the/DETERMINER relation/NOUN :/X Af/NOUN where/ADVERB Af/NOUN is/VERB normalized/VERB radiant/ADJECTIVE photocathode/NOUN sensitivity/NOUN ./PUNCT 
+Af/NOUN is/VERB standard/ADJECTIVE visibility/NOUN function/NOUN ./PUNCT 
+The/DETERMINER luminous/ADJECTIVE flux/NOUN gain/NOUN of/PREPOSITION a/DETERMINER single/DETERMINER stage/NOUN is/VERB given/VERB by/PREPOSITION :/X Af/NOUN ./PUNCT 
+If/CONJUNCTION the/DETERMINER input/NOUN light/NOUN distribution/NOUN falls/VERB beyond/PREPOSITION the/DETERMINER visible/ADJECTIVE range/NOUN ,/PUNCT Af/NOUN as/CONJUNCTION expected/VERB ,/PUNCT since/CONJUNCTION Af/NOUN ./PUNCT 
+Such/ADJECTIVE cases/NOUN are/VERB not/PUNCT considered/VERB here/ADVERB ./PUNCT 
+Efficiency/NOUN of/PREPOSITION fiber/NOUN couplers/NOUN 
+The/DETERMINER efficiency/NOUN of/PREPOSITION fiber/NOUN optics/NOUN plates/NOUN depends/VERB on/PREPOSITION four/NUMBER factors/NOUN :/X (/PUNCT A/NOUN )/PUNCT 
+numerical/ADJECTIVE aperture/NOUN (/PUNCT N.A./NOUN )/PUNCT ;/PUNCT ;/PUNCT 
+(/PUNCT B/NOUN )/PUNCT 
+end/NOUN (/PUNCT Fresnel/NOUN reflection/NOUN )/PUNCT losses/NOUN (/PUNCT R/NOUN )/PUNCT ;/PUNCT ;/PUNCT 
+(/PUNCT C/NOUN )/PUNCT 
+internal/ADJECTIVE losses/NOUN (/PUNCT I.L./NOUN )/PUNCT ;/PUNCT ;/PUNCT 
+(/PUNCT D/NOUN )/PUNCT 
+packing/VERB efficiency/NOUN (/PUNCT F.R./NOUN )/PUNCT ./PUNCT 
+The/DETERMINER numerical/ADJECTIVE aperture/NOUN of/PREPOSITION the/DETERMINER fibers/NOUN is/VERB given/VERB by/PREPOSITION :/X Af/NOUN where/ADVERB Af/NOUN ./PUNCT 
+
+
+The/DETERMINER angle/NOUN Af/NOUN is/VERB measured/VERB in/PREPOSITION the/DETERMINER medium/NOUN of/PREPOSITION index/NOUN Af/NOUN ./PUNCT 
+Settled/VERB phosphors/NOUN ,/PUNCT as/ADVERB generally/ADVERB used/VERB in/PREPOSITION image/NOUN intensifiers/NOUN ,/PUNCT have/VERB low/ADJECTIVE optical/ADJECTIVE contact/NOUN with/PREPOSITION the/DETERMINER substrate/NOUN surface/NOUN ,/PUNCT hence/ADVERB Af/NOUN shall/VERB be/VERB assumed/VERB ./PUNCT 
+The/DETERMINER numerical/ADJECTIVE aperture/NOUN should/VERB be/VERB in/PREPOSITION general/ADJECTIVE close/ADVERB to/PREPOSITION unity/NOUN ./PUNCT 
+This/DETERMINER condition/NOUN can/VERB be/VERB satisfied/VERB ,/PUNCT e.g./ADVERB ,/PUNCT with/PREPOSITION Af/NOUN and/CONJUNCTION Af/NOUN or/CONJUNCTION equivalent/ADJECTIVE glass/NOUN combinations/NOUN ./PUNCT 
+
+
+A/DETERMINER sufficiently/ADVERB good/ADJECTIVE approximation/NOUN for/PREPOSITION determining/VERB the/DETERMINER end/NOUN reflection/NOUN losses/NOUN R/NOUN can/VERB be/VERB obtained/VERB from/PREPOSITION the/DETERMINER angle/NOUN independent/ADJECTIVE Fresnel/NOUN formula/NOUN :/X Af/NOUN ./PUNCT 
+For/PREPOSITION phosphor/NOUN to/PREPOSITION fiber/NOUN and/CONJUNCTION fiber/NOUN to/PREPOSITION air/NOUN surfaces/NOUN ,/PUNCT and/CONJUNCTION assuming/VERB Af/NOUN ,/PUNCT we/PRONOUN obtain/VERB Af/NOUN percent/NOUN ./PUNCT 
+This/DETERMINER value/NOUN may/VERB be/VERB reduced/VERB to/PREPOSITION 4.6/NUMBER percent/NOUN by/PREPOSITION means/NOUN of/PREPOSITION a/DETERMINER (/PUNCT very/ADVERB thin/ADJECTIVE )/PUNCT glass/NOUN layer/NOUN of/PREPOSITION index/NOUN 1.5/NUMBER ./PUNCT 
+Hence/ADVERB ,/PUNCT the/DETERMINER Af/NOUN factor/NOUN for/PREPOSITION the/DETERMINER output/NOUN fiber/NOUN coupler/NOUN is/VERB Af/NOUN ./PUNCT 
+
+
+As/CONJUNCTION the/DETERMINER index/NOUN of/PREPOSITION refraction/NOUN of/PREPOSITION photosensitive/ADJECTIVE surfaces/NOUN of/PREPOSITION the/DETERMINER SbCs-type/NOUN lies/VERB around/PREPOSITION 2/NUMBER ,/PUNCT the/DETERMINER Fresnel/NOUN losses/NOUN at/PREPOSITION the/DETERMINER fiber-photocathode/NOUN interface/NOUN are/VERB about/ADVERB 0.5/NUMBER percent/NOUN and/CONJUNCTION the/DETERMINER Af/NOUN factor/NOUN for/PREPOSITION the/DETERMINER interstage/ADJECTIVE coupler/NOUN is/VERB 0.95/NUMBER ./PUNCT 
+It/PRONOUN might/VERB be/VERB anticipated/VERB that/CONJUNCTION multiple/ADJECTIVE coatings/NOUN will/VERB reduce/VERB end/NOUN reflection/NOUN losses/NOUN even/ADVERB further/ADVERB ./PUNCT 
+
+
+The/DETERMINER internal/ADJECTIVE losses/NOUN are/VERB due/ADJECTIVE to/PREPOSITION absorption/NOUN and/CONJUNCTION the/DETERMINER small/ADJECTIVE but/CONJUNCTION finite/ADJECTIVE losses/NOUN suffered/VERB in/PREPOSITION the/DETERMINER numerous/ADJECTIVE internal/ADJECTIVE reflections/NOUN due/ADJECTIVE to/PREPOSITION deviations/NOUN from/PREPOSITION the/DETERMINER prescribed/VERB ,/PUNCT cylindrical/ADJECTIVE fiber/NOUN cross-section/NOUN and/CONJUNCTION minute/ADJECTIVE imperfections/NOUN of/PREPOSITION the/DETERMINER core-jacket/NOUN interface/NOUN ./PUNCT 
+These/DETERMINER losses/NOUN depend/VERB on/PREPOSITION fiber/NOUN diameter/NOUN and/CONJUNCTION length/NOUN ,/PUNCT absorption/NOUN coefficient/NOUN ,/PUNCT the/DETERMINER mean/ADJECTIVE value/NOUN of/PREPOSITION the/DETERMINER loss/NOUN per/PREPOSITION internal/ADJECTIVE reflection/NOUN and/CONJUNCTION last/DETERMINER ,/PUNCT but/CONJUNCTION not/PUNCT least/DETERMINER ,/PUNCT on/PREPOSITION the/DETERMINER angular/ADJECTIVE distribution/NOUN of/PREPOSITION the/DETERMINER incident/ADJECTIVE light/NOUN ./PUNCT 
+Explicit/ADJECTIVE expressions/NOUN (/PUNCT integral/ADJECTIVE averages/NOUN )/PUNCT are/VERB given/VERB in/PREPOSITION the/DETERMINER literature/NOUN ./PUNCT 
+Lacking/VERB reliable/ADJECTIVE data/NOUN for/PREPOSITION some/DETERMINER of/PREPOSITION the/DETERMINER variables/NOUN ,/PUNCT we/PRONOUN are/VERB relying/VERB on/PREPOSITION experimental/ADJECTIVE data/NOUN of/PREPOSITION about/ADVERB 20/NUMBER percent/NOUN internal/ADJECTIVE losses/NOUN for/PREPOSITION 1/X long/ADJECTIVE ,/PUNCT small/ADJECTIVE (/PUNCT 5/NUMBER -/PREPOSITION 10/NUMBER M/NOUN )/PUNCT diameter/NOUN fibers/NOUN ./PUNCT 
+This/DETERMINER relatively/ADVERB high/ADJECTIVE value/NOUN is/VERB probably/ADVERB due/ADJECTIVE to/PREPOSITION the/DETERMINER small/ADJECTIVE fiber/NOUN diameters/NOUN increasing/VERB the/DETERMINER number/NOUN of/PREPOSITION internal/ADJECTIVE reflections/NOUN ./PUNCT 
+Since/CONJUNCTION we/PRONOUN are/VERB considering/VERB here/ADVERB relatively/ADVERB small/ADJECTIVE diameter/NOUN (/PUNCT 1/NUMBER -/PREPOSITION 1.5/NUMBER inches/NOUN )/PUNCT fiber/NOUN plates/NOUN ,/PUNCT their/PRONOUN average/ADJECTIVE thickness/NOUN can/VERB be/VERB kept/VERB below/PREPOSITION 1/X inch/NOUN and/CONJUNCTION their/PRONOUN internal/ADJECTIVE losses/NOUN may/VERB be/VERB assumed/VERB as/CONJUNCTION 15/NUMBER percent/NOUN (/PUNCT per/PREPOSITION plate/NOUN )/PUNCT ./PUNCT 
+
+
+The/DETERMINER packing/VERB efficiency/NOUN ,/PUNCT F.R./NOUN ,/PUNCT of/PREPOSITION fiber/NOUN plates/NOUN did/VERB not/PUNCT receive/VERB much/DETERMINER attention/NOUN in/PREPOSITION the/DETERMINER literature/NOUN ,/PUNCT probably/ADVERB as/CONJUNCTION it/PRONOUN is/VERB high/ADJECTIVE for/PREPOSITION the/DETERMINER larger/ADJECTIVE fibers/NOUN generally/ADVERB used/VERB ,/PUNCT until/PREPOSITION rather/ADVERB recently/ADVERB ./PUNCT 
+For/PREPOSITION circular/ADJECTIVE fibers/NOUN in/PREPOSITION a/DETERMINER closely/ADVERB packed/VERB hexagonal/ADJECTIVE array/NOUN ,/PUNCT the/DETERMINER packing/VERB efficiency/NOUN is/VERB given/VERB by/PREPOSITION :/X Af/NOUN where/ADVERB Af/NOUN ,/PUNCT and/CONJUNCTION 0.906/NUMBER is/VERB the/DETERMINER ratio/NOUN of/PREPOSITION the/DETERMINER area/NOUN of/PREPOSITION a/DETERMINER circle/NOUN to/PREPOSITION that/DETERMINER of/PREPOSITION the/DETERMINER circumscribed/VERB hexagon/NOUN ./PUNCT 
+For/PREPOSITION the/DETERMINER small/ADJECTIVE diameter/NOUN fibers/NOUN now/ADVERB technically/ADVERB feasible/ADJECTIVE and/CONJUNCTION required/VERB for/PREPOSITION about/ADVERB 100/NUMBER Af/NOUN resolution/NOUN ,/PUNCT Af/NOUN ./PUNCT 
+The/DETERMINER cladding/VERB thickness/NOUN is/VERB about/ADVERB 0.5/NUMBER M/NOUN ,/PUNCT hence/ADVERB ,/PUNCT Af/NOUN and/CONJUNCTION Af/NOUN ./PUNCT 
+
+
+Thus/ADVERB ,/PUNCT the/DETERMINER efficiency/NOUN **yt/NOUN couplers/NOUN is/VERB given/VERB by/PREPOSITION --/PUNCT Af/NOUN or/CONJUNCTION approximately/ADVERB 50/NUMBER percent/NOUN each/DETERMINER ./PUNCT 
+
+
+It/PRONOUN must/VERB be/VERB remembered/VERB that/CONJUNCTION the/DETERMINER fiber/NOUN plates/NOUN replace/VERB a/DETERMINER glass/NOUN window/NOUN and/CONJUNCTION a/DETERMINER (/PUNCT mica/NOUN )/PUNCT membrane/NOUN ,/PUNCT in/PREPOSITION addition/NOUN to/PREPOSITION an/DETERMINER optical/ADJECTIVE output/NOUN lens/NOUN system/NOUN ./PUNCT 
+The/DETERMINER efficiency/NOUN Af/NOUN of/PREPOSITION an/DETERMINER Af/NOUN lens/NOUN at/PREPOSITION the/DETERMINER magnification/NOUN Af/NOUN is/VERB :/X Af/NOUN ./PUNCT 
+Neglecting/VERB absorption/NOUN ,/PUNCT the/DETERMINER end/NOUN losses/NOUN of/PREPOSITION the/DETERMINER coupling/VERB membrane/NOUN and/CONJUNCTION the/DETERMINER output/NOUN window/NOUN Af/NOUN would/VERB be/VERB 6/NUMBER percent/NOUN and/CONJUNCTION 8/NUMBER percent/NOUN ./PUNCT 
+Thus/ADVERB ,/PUNCT the/DETERMINER combined/VERB efficiency/NOUN of/PREPOSITION the/DETERMINER elements/NOUN replaced/VERB by/PREPOSITION the/DETERMINER two/NUMBER fiber/NOUN plates/NOUN (/PUNCT with/PREPOSITION a/DETERMINER combined/VERB efficiency/NOUN of/PREPOSITION 0.25/NUMBER )/PUNCT is/VERB 0.043/NUMBER or/CONJUNCTION about/ADVERB six/NUMBER times/NOUN less/DETERMINER than/CONJUNCTION that/DETERMINER of/PREPOSITION the/DETERMINER two/NUMBER fiber/NOUN plates/NOUN ./PUNCT 
+Gain/NOUN of/PREPOSITION fiber/NOUN coupled/VERB image/NOUN intensifiers/NOUN 
+Including/PREPOSITION the/DETERMINER brightness/NOUN gain/NOUN Af/NOUN due/ADJECTIVE to/PREPOSITION the/DETERMINER Af/NOUN area/NOUN demagnification/NOUN ,/PUNCT the/DETERMINER overall/ADJECTIVE gain/NOUN of/PREPOSITION a/DETERMINER fiber/NOUN coupled/VERB double/ADJECTIVE stage/NOUN image/NOUN intensifier/NOUN is/VERB :/X Af/NOUN ./PUNCT 
+It/PRONOUN is/VERB obvious/ADJECTIVE that/CONJUNCTION the/DETERMINER careful/ADJECTIVE choice/NOUN of/PREPOSITION photocathode/NOUN which/DETERMINER maximizes/VERB Af/NOUN for/PREPOSITION a/DETERMINER given/VERB input/NOUN E/NOUN (/PUNCT in/PREPOSITION the/DETERMINER case/NOUN of/PREPOSITION the/DETERMINER second/NUMBER stage/NOUN ,/PUNCT for/PREPOSITION the/DETERMINER first/NUMBER phosphor/NOUN screen/NOUN emission/NOUN )/PUNCT is/VERB very/ADVERB important/ADJECTIVE ./PUNCT 
+The/DETERMINER same/DETERMINER consideration/NOUN should/VERB govern/VERB the/DETERMINER choice/NOUN of/PREPOSITION the/DETERMINER second-stage/NOUN phosphor/NOUN screen/NOUN for/PREPOSITION matching/VERB with/PREPOSITION the/DETERMINER spectral/ADJECTIVE sensitivity/NOUN of/PREPOSITION the/DETERMINER ultimate/ADJECTIVE sensor/NOUN (/PUNCT e.g./ADVERB ,/PUNCT photographic/ADJECTIVE emulsion/NOUN )/PUNCT ./PUNCT 
+
+
+We/PRONOUN have/VERB evaluated/VERB the/DETERMINER ``/PUNCT matching/VERB integrals/NOUN ''/PUNCT for/PREPOSITION two/NUMBER types/NOUN of/PREPOSITION photocathodes/NOUN (/PUNCT S-11/ADJECTIVE and/CONJUNCTION S-20/NOUN )/PUNCT and/CONJUNCTION three/NUMBER types/NOUN of/PREPOSITION light/NOUN input/NOUN ./PUNCT 
+The/DETERMINER input/NOUN light/NOUN distributions/NOUN considered/VERB are/VERB P-11/NOUN and/CONJUNCTION P-20/NOUN phosphor/NOUN emission/NOUN and/CONJUNCTION the/DETERMINER so-called/ADJECTIVE ``/PUNCT night/NOUN light/NOUN ''/PUNCT (/PUNCT N.L./NOUN )/PUNCT as/CONJUNCTION given/VERB by/PREPOSITION H.W./NOUN Babcock/NOUN and/CONJUNCTION J./NOUN J./NOUN Johnson/NOUN ./PUNCT 
+The/DETERMINER integrals/NOUN (/PUNCT in/PREPOSITION units/NOUN )/PUNCT are/VERB listed/VERB in/PREPOSITION table/NOUN 14-1/NUMBER ,/PUNCT below/ADVERB ./PUNCT 
+
+
+
+Theoretical/ADJECTIVE discussion/NOUN of/PREPOSITION paraxial/ADJECTIVE device/NOUN resolution/NOUN 
+resolution/NOUN limitations/NOUN in/PREPOSITION a/DETERMINER single/DETERMINER stage/NOUN 
+The/DETERMINER resolution/NOUN limitations/NOUN for/PREPOSITION a/DETERMINER single/DETERMINER stage/NOUN are/VERB given/VERB by/PREPOSITION the/DETERMINER inherent/ADJECTIVE resolution/NOUN of/PREPOSITION the/DETERMINER electron/NOUN optical/ADJECTIVE system/NOUN as/ADVERB well/ADVERB as/CONJUNCTION the/DETERMINER resolution/NOUN capabilities/NOUN of/PREPOSITION the/DETERMINER cathodoluminescent/ADJECTIVE viewing/VERB screen/NOUN ./PUNCT 
+
+
+The/DETERMINER resolution/NOUN capabilities/NOUN of/PREPOSITION an/DETERMINER electrostatic/ADJECTIVE system/NOUN depend/VERB on/PREPOSITION both/X the/DETERMINER choice/NOUN of/PREPOSITION magnification/NOUN and/CONJUNCTION chromatic/ADJECTIVE aberrations/NOUN ./PUNCT 
+It/PRONOUN has/VERB been/VERB stated/VERB previously/ADVERB that/CONJUNCTION a/DETERMINER minifying/VERB electrostatic/ADJECTIVE system/NOUN yields/VERB a/DETERMINER lower/ADJECTIVE resolution/NOUN than/CONJUNCTION a/DETERMINER magnifying/VERB system/NOUN or/CONJUNCTION a/DETERMINER system/NOUN with/PREPOSITION unity/NOUN magnification/NOUN ./PUNCT 
+
+
+Furthermore/ADVERB ,/PUNCT the/DETERMINER chromatic/ADJECTIVE aberrations/NOUN depend/VERB on/PREPOSITION the/DETERMINER chosen/VERB high/ADJECTIVE voltage/NOUN ./PUNCT 
+In/PREPOSITION general/ADJECTIVE ,/PUNCT a/DETERMINER high/ADJECTIVE anode/NOUN voltage/NOUN reduces/VERB chromatic/ADJECTIVE aberrations/NOUN and/CONJUNCTION thus/ADVERB increases/VERB the/DETERMINER obtainable/ADJECTIVE resolution/NOUN ./PUNCT 
+
+
+The/DETERMINER luminous/ADJECTIVE gain/NOUN of/PREPOSITION the/DETERMINER discussed/VERB tube/NOUN was/VERB calculated/VERB from/PREPOSITION Eq./NOUN (/PUNCT 6/NUMBER )/PUNCT for/PREPOSITION the/DETERMINER 16/NUMBER possible/ADJECTIVE combinations/NOUN of/PREPOSITION S-11/NOUN and/CONJUNCTION S-20/NOUN photocathodes/NOUN and/CONJUNCTION P-11/NOUN and/CONJUNCTION P-20/NOUN phosphor/NOUN screens/NOUN ,/PUNCT for/PREPOSITION night/NOUN light/NOUN and/CONJUNCTION P-20/NOUN light/NOUN input/NOUN ./PUNCT 
+(/PUNCT The/DETERMINER P-20/NOUN input/NOUN is/VERB of/PREPOSITION interest/NOUN because/CONJUNCTION it/PRONOUN corresponds/VERB roughly/ADVERB to/PREPOSITION the/DETERMINER light/NOUN emission/NOUN of/PREPOSITION conventional/ADJECTIVE X-ray/NOUN fluorescent/ADJECTIVE screens/NOUN )/PUNCT ./PUNCT 
+The/DETERMINER following/VERB efficiencies/NOUN obtained/VERB from/PREPOSITION JEDEC/NOUN and/CONJUNCTION RCA/NOUN specifications/NOUN were/VERB used/VERB :/X Af/NOUN 
+
+./PUNCT 
+The/DETERMINER following/VERB table/NOUN (/PUNCT 14-2/NUMBER )/PUNCT lists/VERB the/DETERMINER (/PUNCT luminous/ADJECTIVE )/PUNCT gain/NOUN values/NOUN computed/VERB according/ADVERB to/PREPOSITION Eq./NOUN (/PUNCT 6/NUMBER )/PUNCT with/PREPOSITION Af/NOUN ./PUNCT 
+
+
+The/DETERMINER possibility/NOUN of/PREPOSITION a/DETERMINER space/NOUN charge/NOUN blowup/NOUN of/PREPOSITION the/DETERMINER screen/NOUN crossover/NOUN of/PREPOSITION the/DETERMINER elementary/ADJECTIVE electron/NOUN bundles/NOUN has/VERB been/VERB pointed/VERB out/ADVERB ./PUNCT 
+It/PRONOUN is/VERB obvious/ADJECTIVE that/CONJUNCTION such/X an/DETERMINER influence/NOUN can/VERB only/ADVERB be/VERB expected/VERB in/PREPOSITION the/DETERMINER final/ADJECTIVE stage/NOUN of/PREPOSITION an/DETERMINER image/NOUN intensifier/NOUN at/PREPOSITION rather/ADVERB high/ADJECTIVE output/NOUN levels/NOUN ./PUNCT 
+Space/NOUN charge/NOUN influences/NOUN will/VERB also/ADVERB decrease/VERB at/PREPOSITION increased/VERB voltages/NOUN ./PUNCT 
+
+
+Electrostatic/ADJECTIVE systems/NOUN of/PREPOSITION the/DETERMINER pseudo-symmetric/ADJECTIVE type/NOUN have/VERB been/VERB tested/VERB for/PREPOSITION resolution/NOUN capabilities/NOUN by/PREPOSITION applying/VERB electronography/NOUN ./PUNCT 
+A/DETERMINER resolution/NOUN of/PREPOSITION 70/NUMBER -/PREPOSITION 80/NUMBER line-pairs/NOUN per/PREPOSITION millimeter/NOUN appears/VERB to/X be/VERB feasible/ADJECTIVE ./PUNCT 
+
+
+The/DETERMINER inherent/ADJECTIVE resolution/NOUN of/PREPOSITION a/DETERMINER cathodoluminescent/ADJECTIVE phosphor/NOUN screen/NOUN decreases/VERB with/PREPOSITION increasingly/ADVERB aggregate/ADJECTIVE thickness/NOUN (/PUNCT with/PREPOSITION increasing/VERB anode/NOUN voltage/NOUN )/PUNCT ,/PUNCT decreases/VERB with/PREPOSITION decreasing/VERB porosity/NOUN (/PUNCT thus/ADVERB the/DETERMINER advantage/NOUN of/PREPOSITION cathodophoretic/ADJECTIVE phosphor/NOUN deposition/NOUN )/PUNCT and/CONJUNCTION might/VERB be/VERB impaired/VERB by/PREPOSITION the/DETERMINER normally/ADVERB used/VERB aluminum/NOUN mirror/NOUN ./PUNCT 
+Thus/ADVERB ,/PUNCT in/PREPOSITION general/ADJECTIVE ,/PUNCT elementary/ADJECTIVE light/NOUN optical/ADJECTIVE effects/NOUN ,/PUNCT light/NOUN scatter/NOUN ,/PUNCT and/CONJUNCTION electron/NOUN scatter/NOUN determine/VERB the/DETERMINER obtainable/ADJECTIVE resolution/NOUN limit/NOUN ./PUNCT 
+It/PRONOUN should/VERB be/VERB noted/VERB that/CONJUNCTION photoluminescence/NOUN ,/PUNCT due/ADVERB to/PREPOSITION ``/PUNCT Bremsstrahlung/X ''/PUNCT generated/VERB within/PREPOSITION the/DETERMINER viewing/VERB screen/NOUN by/PREPOSITION electron/NOUN impact/NOUN ,/PUNCT appears/VERB to/X be/VERB important/ADJECTIVE only/ADVERB if/CONJUNCTION anode/NOUN voltages/NOUN in/PREPOSITION excess/NOUN of/PREPOSITION 30/NUMBER KV/NOUN are/VERB utilized/VERB ./PUNCT 
+It/PRONOUN has/VERB been/VERB stated/VERB that/CONJUNCTION settled/VERB cathodoluminescent/ADJECTIVE phosphor/NOUN screens/NOUN may/VERB have/VERB a/DETERMINER limiting/VERB resolution/NOUN of/PREPOSITION 60/NUMBER Af/NOUN at/PREPOSITION high/ADJECTIVE voltage/NOUN values/NOUN of/PREPOSITION approximately/ADVERB 20/NUMBER Aj/NOUN ./PUNCT 
+For/PREPOSITION the/DETERMINER further/ADJECTIVE discussion/NOUN ,/PUNCT we/PRONOUN shall/VERB thus/ADVERB assume/VERB an/DETERMINER electron/NOUN optical/ADJECTIVE resolution/NOUN of/PREPOSITION 80/NUMBER Af/NOUN and/CONJUNCTION phosphor/NOUN screen/NOUN resolution/NOUN of/PREPOSITION 60/NUMBER Af/NOUN ./PUNCT 
+
