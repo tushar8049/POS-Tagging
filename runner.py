@@ -1,6 +1,5 @@
 import tagger as tag
 
-
 corpus_path = 'brown_corpus_modified'
 
 myTagger = tag.Tagger()
