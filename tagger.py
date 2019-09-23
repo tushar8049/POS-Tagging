@@ -6,9 +6,12 @@ import sys
 class Tagger:
 
     def __init__(self):
-        self.initial_tag_probability = None
-        self.transition_probability = None
-        self.emission_probability = None
+        self.initial_tag_probability = {}
+        self.transition_probability = {}
+        self.emission_probability = {}
+        self.initial_tag_frequency = {}
+        self.transition_frequency = {}
+        self.emission_frequency = {}
 
     def load_corpus(self, path):
         if not os.path.isdir(path):
@@ -34,12 +37,23 @@ class Tagger:
         print("Total Sentences: ", len(list_of_list))
         return list_of_list
 
-    def initialize_probabilities(self, sentences):
-        if type(sentences) != list:
+    def initialize_probabilities(self, sentence):
+        if type(sentence) != list:
             sys.exit("Incorrect input to method")
-        """
-		YOUR CODE GOES HERE: Complete the rest of the method so that it computes the probability matrices as described in the question
-		"""
+        if len(sentence) <= 0:
+            sys.exit("Incorrect input to method")
+
+        first_token = sentence[0][1]
+        if first_token in self.initial_tag_frequency.keys():
+            self.initial_tag_frequency[first_token] = self.initial_tag_frequency.pop(first_token) + 1
+        else:
+            self.initial_tag_frequency[first_token] = 1
+
+        for word_token in sentence:
+            if word_token[1] in self.transition_frequency.keys():
+                self.transition_frequency[word_token[1]] = self.transition_frequency.pop(word_token[1]) + 1
+            else:
+                self.transition_frequency[word_token[1]] = 1
 
     def viterbi_decode(self, sentence):
         if type(sentence) != str:
@@ -47,3 +61,21 @@ class Tagger:
         """
 		YOUR CODE GOES HERE: Complete the rest of the method so that it computes the most likely sequence of tags as described in the question
 		"""
+
+    def get_initial_tag_frequency(self):
+        return self.initial_tag_frequency
+
+    def get_initial_tag_total(self):
+        count = 0
+        for word in self.initial_tag_frequency.keys():
+            count += self.initial_tag_frequency.get(word)
+        return count
+
+    def get_transition_frequency(self):
+        return self.transition_frequency
+
+    def get_transition_total(self):
+        count = 0
+        for word in self.transition_frequency.keys():
+            count += self.transition_frequency.get(word)
+        return count
