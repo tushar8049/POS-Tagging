@@ -50,10 +50,10 @@ class Tagger:
             self.initial_tag_frequency[first_token] = 1
 
         for word_token in sentence:
-            if word_token[1] in self.transition_frequency.keys():
-                self.transition_frequency[word_token[1]] = self.transition_frequency.pop(word_token[1]) + 1
-            else:
-                self.transition_frequency[word_token[1]] = 1
+            self.emission_frequency[word_token] = (self.emission_frequency.pop(word_token) + 1) if (
+                    word_token in self.emission_frequency.keys()) else 1
+            self.transition_frequency[word_token[1]] = (self.transition_frequency.pop(word_token[1]) + 1) if (
+                    word_token[1] in self.transition_frequency.keys()) else 1
 
     def viterbi_decode(self, sentence):
         if type(sentence) != str:
@@ -75,6 +75,15 @@ class Tagger:
         return self.transition_frequency
 
     def get_transition_total(self):
+        count = 0
+        for word in self.transition_frequency.keys():
+            count += self.transition_frequency.get(word)
+        return count
+
+    def get_emission_frequency(self):
+        return self.transition_frequency
+
+    def get_emission_total(self):
         count = 0
         for word in self.transition_frequency.keys():
             count += self.transition_frequency.get(word)

@@ -13,3 +13,4 @@ for sentence in tokenList:
 print(myTagger.get_initial_tag_frequency())
 print(myTagger.get_initial_tag_total())
 print(myTagger.get_transition_total())
+print(myTagger.get_emission_total())
