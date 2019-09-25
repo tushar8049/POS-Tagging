@@ -34,6 +34,7 @@ Output for the test Sentences is as below:
 <code>
 Tagging of Sentence 1:  ['DETERMINER', 'NOUN', 'VERB', 'VERB', 'PREPOSITION', 'NOUN', 'NOUN', 'PUNCT']
 </code>
+<p></p>
 <code>
 Tagging of Sentence 2:  ['NOUN', 'VERB', 'PREPOSITION', 'DETERMINER', 'DETERMINER', 'NOUN', 'PREPOSITION', 'DETERMINER', 'NOUN', 'PREPOSITION', 'ADJECTIVE', 'NOUN', 'PUNCT']
 </code>
